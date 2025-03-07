@@ -1,4 +1,3 @@
-// File: VariablesAndCaseSensitivity.java
 public class VariablesAndCaseSensitivity {
     public static void main(String[] args) {
         // Declare an Integer Variable
